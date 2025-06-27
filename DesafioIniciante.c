@@ -81,3 +81,4 @@ int main(){
     printf(" Pib:%f bilhões de reais - Número Pontos Turisticos: %d\n", pib2, pontosTuristicos2);
 
 return 0;
+}
